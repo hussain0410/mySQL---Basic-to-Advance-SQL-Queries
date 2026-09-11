@@ -6,5 +6,5 @@ Easy to Learn
 >Welcome to my project
 
 # Heading
->.Welcome to my project
->.Welcome to my project
+> - Welcome to my project
+> - Welcome to my project
